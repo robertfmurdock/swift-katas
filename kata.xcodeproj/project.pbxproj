@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9669D2324C9198F6AD287CBC /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9669D7DA94CEA3B7453CB1BD /* README.txt */; };
+		9669D9BDBCFB6AFEBCE69793 /* RomanNumeralConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9669D4E9827F7EFD24B3832E /* RomanNumeralConverter.swift */; };
+		9669DD779419B52E4D7706B0 /* RomanNumeralConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9669D4E9827F7EFD24B3832E /* RomanNumeralConverter.swift */; };
 		B450FC4D21E91AFE001B3535 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B450FC4C21E91AFE001B3535 /* AppDelegate.swift */; };
 		B450FC4F21E91AFE001B3535 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B450FC4E21E91AFE001B3535 /* ViewController.swift */; };
 		B450FC5221E91AFE001B3535 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B450FC5021E91AFE001B3535 /* Main.storyboard */; };
@@ -34,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9669D4E9827F7EFD24B3832E /* RomanNumeralConverter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RomanNumeralConverter.swift; sourceTree = "<group>"; };
+		9669D7DA94CEA3B7453CB1BD /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		B450FC4921E91AFE001B3535 /* kata.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kata.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B450FC4C21E91AFE001B3535 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B450FC4E21E91AFE001B3535 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +108,7 @@
 				B450FC5321E91AFF001B3535 /* Assets.xcassets */,
 				B450FC5521E91AFF001B3535 /* LaunchScreen.storyboard */,
 				B450FC5821E91AFF001B3535 /* Info.plist */,
+				9669D4E9827F7EFD24B3832E /* RomanNumeralConverter.swift */,
 			);
 			path = kata;
 			sourceTree = "<group>";
@@ -112,6 +118,7 @@
 			children = (
 				B450FC6121E91AFF001B3535 /* kataTests.swift */,
 				B450FC6321E91AFF001B3535 /* Info.plist */,
+				9669D7DA94CEA3B7453CB1BD /* README.txt */,
 			);
 			path = kataTests;
 			sourceTree = "<group>";
@@ -239,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9669D2324C9198F6AD287CBC /* README.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +266,7 @@
 			files = (
 				B450FC4F21E91AFE001B3535 /* ViewController.swift in Sources */,
 				B450FC4D21E91AFE001B3535 /* AppDelegate.swift in Sources */,
+				9669D9BDBCFB6AFEBCE69793 /* RomanNumeralConverter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B450FC6221E91AFF001B3535 /* kataTests.swift in Sources */,
+				9669DD779419B52E4D7706B0 /* RomanNumeralConverter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +443,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G8HY7Y6SVB;
 				INFOPLIST_FILE = kata/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +461,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G8HY7Y6SVB;
 				INFOPLIST_FILE = kata/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
