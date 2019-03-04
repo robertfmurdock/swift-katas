@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d286cdae-50d4-4750-9ac5-81593c569442" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kata/RomanNumeralConverter.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kata.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/kata.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kata.xcodeproj/xcuserdata/rmurdock.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/kata.xcodeproj/xcuserdata/rmurdock.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kataTests/kataTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/kataTests/kataTests.swift" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,17 +11,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_381B0A8D-3C12-4B9C-90BD-15AB2FEF3B31" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_678667D6-2B1D-4607-BDA7-27FCABB5BE20" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kataTests/kataTests.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#138#151#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -31,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kata/RomanNumeralConverter.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -59,11 +54,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="140" />
-    <option name="y" value="73" />
-    <option name="width" value="1400" />
-    <option name="height" value="987" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -71,7 +64,6 @@
     </navigator>
     <panes>
       <pane id="Cidr.FilesView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,6 +85,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,7 +117,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kataTests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kata" TARGET_NAME="kataTests" CONFIG_NAME="Debug" SCHEME_NAME="kataTests" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="kataTests" TEST_MODE="SUITE_TEST">
+    <configuration name="kataTests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kata" TARGET_NAME="kataTests" CONFIG_NAME="Debug" SCHEME_NAME="kataTests" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="kataTests" TEST_MODE="SUITE_TEST" XCODE_TESTS_HASH_CODE="-141250084">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -133,11 +126,9 @@
       <item itemvalue="Application.kata" />
       <item itemvalue="XCTest.kataTests" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="XCTest.kataTests" />
-      </list>
-    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -147,6 +138,8 @@
       <option name="presentableId" value="Default" />
       <updated>1547232178623</updated>
       <workItem from="1547232180271" duration="354000" />
+      <workItem from="1551715291090" duration="34000" />
+      <workItem from="1551717132363" duration="550000" />
     </task>
     <servers />
   </component>
@@ -154,35 +147,41 @@
     <history-entry file="kataTests - 2019.01.11 at 13h 45m 11s.xml">
       <configuration name="kataTests" configurationId="OCUnitRunConfiguration" />
     </history-entry>
+    <history-entry file="kataTests - 2019.03.04 at 11h 44m 06s.xml">
+      <configuration name="kataTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="kataTests - 2019.03.04 at 11h 55m 30s.xml">
+      <configuration name="kataTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354000" />
+    <option name="totallyTimeSpent" value="938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="140" y="73" width="1400" height="987" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21306472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,18 +197,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kata/RomanNumeralConverter.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kataTests/kataTests.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#138#151#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
