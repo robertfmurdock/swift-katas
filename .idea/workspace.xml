@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d286cdae-50d4-4750-9ac5-81593c569442" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kataTests/kataTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/kataTests/kataTests.swift" afterDir="false" />
-    </list>
+    <list default="true" id="d286cdae-50d4-4750-9ac5-81593c569442" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +114,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kataTests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kata" TARGET_NAME="kataTests" CONFIG_NAME="Debug" SCHEME_NAME="kataTests" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="kataTests" TEST_MODE="SUITE_TEST" XCODE_TESTS_HASH_CODE="-141250084">
+    <configuration name="kataTests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kata" TARGET_NAME="kataTests" CONFIG_NAME="Debug" SCHEME_NAME="kataTests" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="kataTests" TEST_MODE="SUITE_TEST" XCODE_TESTS_HASH_CODE="-141250115">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -139,7 +136,7 @@
       <updated>1547232178623</updated>
       <workItem from="1547232180271" duration="354000" />
       <workItem from="1551715291090" duration="34000" />
-      <workItem from="1551717132363" duration="550000" />
+      <workItem from="1551717132363" duration="592000" />
     </task>
     <servers />
   </component>
@@ -155,11 +152,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="938000" />
+    <option name="totallyTimeSpent" value="980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21306472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
