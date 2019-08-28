@@ -36,11 +36,6 @@
                BlueprintName = "kataTests"
                ReferencedContainer = "container:kata.xcodeproj">
             </BuildableReference>
-            <SelectedTests>
-               <Test
-                  Identifier = "kataTests">
-               </Test>
-            </SelectedTests>
          </TestableReference>
       </Testables>
       <AdditionalOptions>
@@ -67,6 +62,10 @@
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
+      <LocationScenarioReference
+         identifier = "com.apple.dt.IDEFoundation.CurrentLocationScenarioIdentifier"
+         referenceType = "1">
+      </LocationScenarioReference>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"

@@ -15,7 +15,7 @@
 		B450FC5221E91AFE001B3535 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B450FC5021E91AFE001B3535 /* Main.storyboard */; };
 		B450FC5421E91AFF001B3535 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B450FC5321E91AFF001B3535 /* Assets.xcassets */; };
 		B450FC5721E91AFF001B3535 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B450FC5521E91AFF001B3535 /* LaunchScreen.storyboard */; };
-		B450FC6221E91AFF001B3535 /* kataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B450FC6121E91AFF001B3535 /* kataTests.swift */; };
+		B450FC6221E91AFF001B3535 /* RomanNumeralConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B450FC6121E91AFF001B3535 /* RomanNumeralConverterTests.swift */; };
 		B450FC6D21E91AFF001B3535 /* kataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B450FC6C21E91AFF001B3535 /* kataUITests.swift */; };
 /* End PBXBuildFile section */
 
@@ -47,7 +47,7 @@
 		B450FC5621E91AFF001B3535 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B450FC5821E91AFF001B3535 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B450FC5D21E91AFF001B3535 /* kataTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kataTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B450FC6121E91AFF001B3535 /* kataTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kataTests.swift; sourceTree = "<group>"; };
+		B450FC6121E91AFF001B3535 /* RomanNumeralConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanNumeralConverterTests.swift; sourceTree = "<group>"; };
 		B450FC6321E91AFF001B3535 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B450FC6821E91AFF001B3535 /* kataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B450FC6C21E91AFF001B3535 /* kataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kataUITests.swift; sourceTree = "<group>"; };
@@ -116,7 +116,7 @@
 		B450FC6021E91AFF001B3535 /* kataTests */ = {
 			isa = PBXGroup;
 			children = (
-				B450FC6121E91AFF001B3535 /* kataTests.swift */,
+				B450FC6121E91AFF001B3535 /* RomanNumeralConverterTests.swift */,
 				B450FC6321E91AFF001B3535 /* Info.plist */,
 				9669D7DA94CEA3B7453CB1BD /* README.txt */,
 			);
@@ -274,7 +274,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B450FC6221E91AFF001B3535 /* kataTests.swift in Sources */,
+				B450FC6221E91AFF001B3535 /* RomanNumeralConverterTests.swift in Sources */,
 				9669DD779419B52E4D7706B0 /* RomanNumeralConverter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -480,6 +480,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G8HY7Y6SVB;
 				INFOPLIST_FILE = kataTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -500,6 +501,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G8HY7Y6SVB;
 				INFOPLIST_FILE = kataTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -519,6 +521,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G8HY7Y6SVB;
 				INFOPLIST_FILE = kataUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -538,6 +541,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G8HY7Y6SVB;
 				INFOPLIST_FILE = kataUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

@@ -1,6 +1,6 @@
 import XCTest
 
-class kataTests: XCTestCase {
+class RomanNumeralConverterTests: XCTestCase {
 
     let converter = RomanNumeralConverter()
 
